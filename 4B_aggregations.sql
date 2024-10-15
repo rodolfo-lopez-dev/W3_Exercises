@@ -56,4 +56,4 @@ FROM Products
 ORDER BY InventoryValue DESC, ProductName ASC;
 
 /* found inventory value for each product; to calculate InvVal, you multiply Price and InStock 
-and also sorted InvVal largest to smallest, and ProductName in ascending order 
+and also sorted InvVal largest to smallest, and ProductName in ascending order */ 
